@@ -1,4 +1,4 @@
-import Pets
+from final_control_work.Program.Classes.Pets import Pets
 
 
 class Cats(Pets):

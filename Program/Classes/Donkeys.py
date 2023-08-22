@@ -1,4 +1,4 @@
-import PackAnimals
+from final_control_work.Program.Classes.PackAnimals import PackAnimals
 
 
 class Donkeys(PackAnimals):
